@@ -22,5 +22,17 @@
     align-items: end;
     flex-wrap: wrap;
 
+}
 
+#listas{
+    padding: 100px;
+   
+}
+
+ol{
+    list-style: lower-roman;
+}
+
+ul{
+    list-style: url();
 }
